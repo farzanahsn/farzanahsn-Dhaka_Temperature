@@ -28,6 +28,8 @@ H. Multiple Linear Regression KFOLD (Testing)
 I. KFOLD random Forest Regression
 J. KFold Decision Tree REGRESSOR
 K. KFOLD DECISION TREE CLASSIFIER
-Then, Compared the results  and visualize the comparision
+Then, Compared the results  and visualize the comparision.
+
+Finally, 'DecisionTreetimeseries_forecast.ipynb', 'RandomForestRegression_forecast.ipynb' and 'timeseries_prophet_forecast.ipynb' predicted the teamperature for future 2 years. 
 
 
